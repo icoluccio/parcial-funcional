@@ -1,6 +1,6 @@
 # LamdaProp
 
-![](lambdaprop.jpg)
+![](lambdaprop.JPG)
 
 *Buscar departamentos para alquilar por los medios tradicionales es una tarea compleja, ya que requiere mucho tiempo de investigación buscando en los clasificados de los diarios y recorriendo inmobiliarias. Es por eso que hoy en día cada vez son más las personas que dejaron eso atrás dejando que la tecnología les ayude a buscar las supuestas mejores alternativas para sus necesidades.
 Por eso surge una nueva aplicación para buscar departamentos que permite al usuario personalizar su búsqueda y de paso eventualmente recibir las nuevas ofertas inmobiliarias que podrían ser de su interés, a ver si agarra viaje.*
