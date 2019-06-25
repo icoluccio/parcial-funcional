@@ -1,4 +1,4 @@
-# LamdaProp
+# LambdaProp
 
 ![](lambda-prop.jpg)
 
